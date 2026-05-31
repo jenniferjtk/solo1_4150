@@ -9,4 +9,4 @@ To run it, open the solo1 folder in VS Code, run flutter run in the terminal, an
 Design choices: I used an earth tone color scheme with greens and off-whites to match the environmental theme. 
 
 Sources: IEA (2025), EPA, ScienceDirect (2025), arxiv.org (2024)
-GitHub: https://github.com/jenniferjtk/solo1_4150
+GitHub: https://github.com/jenniferjtk/solo1_4150
