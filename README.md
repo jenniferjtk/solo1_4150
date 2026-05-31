@@ -1,17 +1,8 @@
-# solo1
+#This app is called AI & The Environment. 
+\n It is a two screen Flutter app that presents facts and statistics about the environmental impact of AI data centers.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screen 1 shows an overview with three key stats about electricity and water usage. Screen 2 goes deeper with specific facts about carbon emissions and sources.
+To run it, open the solo1 folder in VS Code, run flutter run in the terminal, and select the iPhone simulator.
+Design choices: I used an earth tone color scheme with greens and off-whites to match the environmental theme. I kept the layout close to the starter code structure using Center and Column widgets.
+Sources: IEA (2025), EPA, ScienceDirect (2025), arxiv.org (2024)
+GitHub: https://github.com/jenniferjtk/solo1_4150
